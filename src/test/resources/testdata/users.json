@@ -1,0 +1,20 @@
+{
+  "createUser": {
+    "name": "morpheus",
+    "job": "leader"
+  },
+  "updateUser": {
+    "name": "morpheus",
+    "job": "zion resident"
+  },
+  "invalidUser": {
+    "name": "",
+    "job": ""
+  },
+  "knownUser": {
+    "id": 2,
+    "email": "janet.weaver@reqres.in",
+    "first_name": "Janet",
+    "last_name": "Weaver"
+  }
+}
